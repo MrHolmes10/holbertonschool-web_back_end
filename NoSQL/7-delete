@@ -1,0 +1,2 @@
+// no sql Database
+db.school.deleteMany({ name: "Holberton school" })

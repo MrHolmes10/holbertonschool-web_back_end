@@ -17,7 +17,6 @@ fi
 
 # Faylı yaradıb ilk 2 sətri yaz
 cat <<EOF > "$filename"
-// no sql Database
 EOF
 
 # Faylı icra edilə bilən et
