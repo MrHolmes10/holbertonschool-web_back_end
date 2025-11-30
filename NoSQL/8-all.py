@@ -10,6 +10,6 @@ def list_all(mango_collection) -> list:
     
     
     for documnet in mongo_collection.find():
-        documnets.append(documnet)
+        documnets.append(document)
     
     return documnets
